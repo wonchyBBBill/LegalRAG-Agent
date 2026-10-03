@@ -1,0 +1,27 @@
+{
+  "user_identity": {
+    "name": "Unknown",
+    "role": "Entrepreneur/Founder",
+    "startup_stage": "Idea/Early/Growth/Mature"
+  },
+  "project_details": [
+    {
+      "project_name": "Project Name",
+      "industry": "Industry Type",
+      "legal_needs": ["e.g., Company Registration", "IP Protection"],
+      "current_status": "Status description"
+    }
+  ],
+  "knowledge_audit": {
+    "overall_level": "Beginner",
+    "mastered_terms": [],
+    "confused_terms": [],
+    "areas_of_interest": []
+  },
+  "interaction_history": {
+    "key_questions_asked": [],
+    "unresolved_queries": [],
+    "recurring_themes": []
+  },
+  "agent_notes": "Internal notes for the agent to customize the tone and depth of legal advice."
+}
